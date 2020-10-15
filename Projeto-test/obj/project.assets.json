@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jackj\\Desktop\\C#\\git e github\\Projeto-test\\Projeto-test\\Projeto-test.csproj",
+      "projectUniqueName": "C:\\Users\\jackj\\Desktop\\C#\\git  e github\\curso-git\\Projeto-test\\Projeto-test.csproj",
       "projectName": "Projeto-test",
-      "projectPath": "C:\\Users\\jackj\\Desktop\\C#\\git e github\\Projeto-test\\Projeto-test\\Projeto-test.csproj",
+      "projectPath": "C:\\Users\\jackj\\Desktop\\C#\\git  e github\\curso-git\\Projeto-test\\Projeto-test.csproj",
       "packagesPath": "C:\\Users\\jackj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jackj\\Desktop\\C#\\git e github\\Projeto-test\\Projeto-test\\obj\\",
+      "outputPath": "C:\\Users\\jackj\\Desktop\\C#\\git  e github\\curso-git\\Projeto-test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jackj\\AppData\\Roaming\\NuGet\\NuGet.Config",
